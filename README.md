@@ -1,7 +1,5 @@
 # CheatSheet
 
-[[_TOC_]]
-
 ## rustc
 
 ### Compile Code
@@ -61,7 +59,7 @@ cargo update
 cargo doc --open
 ```
 
-### Useful links:
+### Useful links
 
 - [cargo doc](https://doc.rust-lang.org/cargo/)
 - [cargo-watch](https://crates.io/crates/cargo-watch)
